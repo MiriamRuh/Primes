@@ -1,0 +1,112 @@
+/*Global*/
+@font-face{
+	font-family: MuseoSans_1.otf;
+}
+
+/*Cuerpo de texto*/
+@font-face{
+	font-family: MuseoSans.otf;
+	src: url(../Fuente/MuseoSans.otf);
+}
+@font-face{
+	font-family: MuseoSans_0.otf;
+	src: url(../Fuente/MuseoSans_0.otf);
+}
+@font-face{
+	font-family: MuseoSans_1.otf;
+	src: url(../Fuente/MuseoSans_1.otf);
+}
+@font-face{
+	font-family: MuseoSans_2.otf;
+	src: url(../Fuente/MuseoSans_2.otf);
+}
+@font-face{
+	font-family: MuseoSans_3.otf;
+	src: url(../Fuente/MuseoSans_3.otf);
+}
+@font-face{
+	font-family: MuseoSans_100_Italic.otf;
+	src: url(../Fuente/MuseoSans_100_Italic.otf);
+}
+@font-face{
+	font-family: MuseoSans_300_Italic.otf;
+	src: url(../Fuente/MuseoSans_300_Italic.otf);
+}
+@font-face{
+	font-family: MuseoSans_500_Italic.otf;
+	src: url(../Fuente/MuseoSans_500_Italic.otf);
+}
+@font-face{
+	font-family: MuseoSans_700_Italic.otf;
+	src: url(../Fuente/MuseoSans_700_Italic.otf);
+}
+@font-face{
+	font-family: MuseoSans_900_Italic.otf;
+	src: url(../Fuente/MuseoSans_900_Italic.otf);
+}
+
+/*Titulares Neutra text*/
+@font-face{
+	font-family: NeutraText-Bold.otf;
+	src: url(../Fuente/NeutraText-Bold.otf);
+}
+@font-face{
+	font-family: NeutraText-BoldAlt.otf;
+	src: url(../Fuente/NeutraText-BoldAlt.otf);
+}
+@font-face{
+	font-family: NeutraText-BoldItalic.otf;
+	src: url(../Fuente/NeutraText-BoldItalic.otf);
+}
+@font-face{
+	font-family: NeutraText-BoldItalicAlt.otf;
+	src: url(../Fuente/NeutraText-BoldItalicAlt.otf);
+}
+@font-face{
+	font-family: NeutraText-Book.otf;
+	src: url(..Fuente/NeutraText-Book.otf);
+}
+@font-face{
+	font-family: NeutraText-BookAlt.otf;
+	src: url(../Fuente/NeutraText-BookAlt.otf);
+}
+@font-face{
+	font-family: NeutraText-BookItalic.otf;
+	src: url(..Fuente/NeutraText-BookItalic.otf);
+}
+@font-face{
+	font-family: NeutraText-BookItalicAlt.otf;
+	src: url(../Fuente/NeutraText-BookItalicAlt.otf);
+}
+@font-face{
+	font-family: NeutraText-Demi.otf;
+	src: url(../Fuente/NeutraText-Demi.otf);
+}
+@font-face{
+	font-family: NeutraText-DemiAlt.otf;
+	src: url(../Fuente/NeutraText-DemiAlt.otf);
+}
+@font-face{
+	font-family: NeutraText-DemiItalic.otf;
+	src: url(../Fuente/NeutraText-DemiItalic.otf);
+}
+@font-face{
+	font-family: NeutraText-DemiItalicAlt.otf;
+	src: url(../Fuente/NeutraText-DemiItalicAlt.otf);
+}
+@font-face{
+	font-family: NeutraText-Light.otf;
+	src: url(../Fuente/NeutraText-Light.otf);
+}
+@font-face{
+	font-family: NeutraText-LightAlt.otf;
+	src: url(../Fuente/NeutraText-LightAlt.otf);
+}
+@font-face{
+	font-family: NeutraText-LightIA.otf;
+	src: url(../Fuente/NeutraText-LightIA.otf);
+}
+@font-face{
+	font-family: NeutraText-LightItalic.otf;
+	src: url(../Fuente/NeutraText-LightItalic.otf);
+}
